@@ -1,5 +1,5 @@
 # 💫About Me :
-💀 Hey there! I'm Khushi, a Cyber Security Analyst.
+🙋🏻‍♀ Hey there! I'm Khushi, a Cyber Security Analyst.
 
 🔎 Currently Exploring: Diving deep into cybersecurity, mastering vulnerability assessments, penetration testing.
 
